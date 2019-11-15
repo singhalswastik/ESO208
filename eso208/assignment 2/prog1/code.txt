@@ -1,0 +1,12 @@
+
+%taking input from file
+
+filename=input('Enter file name:\n','s');         %example-input.txt
+
+filedata=textread(filename,'%f'); 
+
+n=filedata(1);
+
+A=reshape(filedata(2:end),n+1,n);
+
+a=A';

@@ -1,0 +1,11 @@
+Cholesky method
+Rows interchanged : 1.000000 1.000000 
+Columns interchanged : 1.000000 1.000000 
+Rows interchanged : 2.000000 3.000000 
+Columns interchanged : 2.000000 3.000000 
+L is 
+ 3.061797 -0.795971 0.993404 0.000000
+ 2.794518 0.718199 0.000000 0.000000
+ 2.163455 
+The solution is 
+ 1.487390 1.456171 -0.381887 

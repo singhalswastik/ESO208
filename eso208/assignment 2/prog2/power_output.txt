@@ -1,0 +1,3 @@
+Power method
+Largest Eigen value is 
+ 8.156758 
